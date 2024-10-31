@@ -1,0 +1,19 @@
+.nsfw-toggle-class {
+    opacity: 0.1;
+}
+.entry-content {
+    border: 1px solid black;
+}
+#nsfw-toggle:hover {
+    cursor: pointer;
+}
+
+
+#nsfw-wrapper {
+	position: fixed;
+	right: 0%;
+}
+.nsfw-button {
+	background-color: red;
+	padding: 5px;
+}
